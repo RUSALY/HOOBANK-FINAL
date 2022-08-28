@@ -1,0 +1,19 @@
+.airimgcol img{
+ width: 100%;
+}
+.airimgcol{
+    display: flex;
+    align-items: center;
+}
+.air-img{
+    margin-top: 150px;
+    margin-bottom: 150px;
+   
+}
+.row{
+    margin: 0;
+}
+.row>*{
+    margin: 0;
+}
+

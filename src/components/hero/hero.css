@@ -1,0 +1,50 @@
+.hand-img img{
+  width: 100%;
+}
+.thenext-text{
+    display: flex;
+    align-items: center;
+}
+
+/* margin-left: 7rem;
+ max-width: 25rem; */
+
+.thenext-text> div{
+    margin-left: 7rem; 
+
+}
+
+
+.nextH h1{
+    font-size: 72px;
+}
+
+.nextH h1:nth-child(2){
+    color: #33BBCF;
+}
+.nextPara{
+    max-width: 25rem
+}
+
+
+.getstarted{
+    border: 2px solid;
+    padding: 1rem;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+.getstarted> a{
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+
+

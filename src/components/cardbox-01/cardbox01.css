@@ -1,0 +1,23 @@
+.bill-img img{
+    width: 100%;
+   
+}
+
+
+.bill-text{
+    display: flex;
+    align-items: center;
+}
+.bill-text > div {
+    margin-left: 7rem;
+}
+
+.bill-text >div >h1 {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.bill-text >div >p {
+    font-weight: 400;
+    font-size: 18px;
+}

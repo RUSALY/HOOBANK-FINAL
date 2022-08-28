@@ -1,0 +1,67 @@
+ul{
+    padding-left: 0;
+  }
+a{
+ color: #f0f8ff;
+ 
+}
+a:hover{
+    color: aliceblue;
+    
+
+}
+
+.footpara{
+    width: 18rem;
+    font-weight: 400px;
+    font-size: 18px;
+    margin-top: 2rem;
+    margin-left: 2.5rem;
+}
+
+.footerimg{
+    margin-right: 0rem;
+}
+
+.footerdsn{
+    background-image: #0B0A0C;
+    padding-bottom: 2rem;
+}
+.ul-space>li{
+    height: 3rem;
+}
+.ul-space-h{
+    height: 3rem;
+}
+
+.foot-logo-col{
+    display: flex;
+    align-items: center;
+
+}
+.foot-logo{
+    height: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.foot-logo img{
+height: 100%; 
+}
+
+
+/*  */
+
+.footsec{
+    padding-bottom: 10rem;
+}
+
+.footerC{
+    height: 1rem;
+}
+.copy{
+    margin-right: 1rem;
+}
+.hoobank{
+    margin-left: 1rem;
+}
